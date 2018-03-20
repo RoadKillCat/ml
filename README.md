@@ -1,2 +1,5 @@
-install polyml
-run with poly --use some_file.ml
+Some algorithms in ML.
+
+Tested using PolyML, syntax:
+
+http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html
